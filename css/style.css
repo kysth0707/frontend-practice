@@ -12,3 +12,15 @@
 	opacity: 0;
 	transition: all 0.5s;
 }
+
+.home-animation-left-content {
+	position: relative;
+	left: 0%;
+	transition: all 0.5s;
+}
+
+.home-animation-right-content {
+	position: relative;
+	left: 0%;
+	transition: all 0.5s;
+}
